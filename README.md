@@ -40,7 +40,7 @@ A comprehensive collection of physics simulations and numerical methods implemen
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/physics-with-python.git
+git clone https://github.com/LEGIT-X-CODER/physics-with-python.git
 cd physics-with-python
 ```
 
