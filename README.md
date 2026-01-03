@@ -438,5 +438,3 @@ For questions, suggestions, or issues, please open an issue on GitHub.
 ---
 
 **Made with ❤️ by Aman Singh for physics enthusiasts**
-#   p h y s i c s - w i t h - p y t h o n  
- 
